@@ -48,7 +48,8 @@ cd log_analyzer_ticket_classifier
 
 pip install -r requirements.txt
 
-🏃 Usage
+
+##🏃 Usage
 1. Train the ML model:
 
 python analyzer.py --train
@@ -75,7 +76,7 @@ CRASH       : 1 occurrence(s)
 [+] Probable Log Category: Software Bug
 [+] Predicted Ticket Category: Network Issue
 
-📈 Future Improvements
+##📈 Future Improvements
 
     Add Tkinter GUI for interactive usage.
 
