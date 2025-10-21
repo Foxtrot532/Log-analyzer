@@ -47,7 +47,7 @@ cd log_analyzer_ticket_classifier
     Install dependencies:
 
 pip install -r requirements.txt
-
+```
 
 
 ---
