@@ -1,0 +1,302 @@
+ticket_id,description,category
+1,System slow after update,Software Bug
+2,Application crashes when saving file,Software Bug
+3,Error 404 on dashboard page,Software Bug
+4,UI not responding after patch,Software Bug
+5,Program freezes while importing data,Software Bug
+6,Unexpected shutdown during operation,Software Bug
+7,Software update failed due to missing dependency,Software Bug
+8,Script throws syntax error at line 45,Software Bug
+9,Application not launching after restart,Software Bug
+10,Crash when connecting to external API,Software Bug
+11,Unable to connect to VPN,Network Issue
+12,Intermittent network disconnection,Network Issue
+13,High latency when accessing server,Network Issue
+14,Website loading very slow,Network Issue
+15,Connection timeout to remote host,Network Issue
+16,WiFi authentication failure,Network Issue
+17,Packet loss observed on interface eth0,Network Issue
+18,Server unreachable through SSH,Network Issue
+19,Network adapter not detected,Network Issue
+20,DNS resolution failed for domain,Network Issue
+21,Disk space full on /dev/sda1,Storage Issue
+22,Backup failed due to timeout,Storage Issue
+23,Unable to mount external drive,Storage Issue
+24,File read/write permission denied,Storage Issue
+25,Corrupted file system detected,Storage Issue
+26,Low disk I/O performance,Storage Issue
+27,RAID array degraded warning,Storage Issue
+28,Failed to format partition,Storage Issue
+29,Storage device not recognized,Storage Issue
+30,Disk quota exceeded for user,Storage Issue
+31,Login failed: invalid credentials,Authentication Issue
+32,Account locked after multiple attempts,Authentication Issue
+33,Two-factor authentication not working,Authentication Issue
+34,Session expired immediately after login,Authentication Issue
+35,User unable to reset password,Authentication Issue
+36,Access denied to restricted module,Authentication Issue
+37,SSO login fails for external users,Authentication Issue
+38,Invalid token detected during login,Authentication Issue
+39,LDAP authentication failed,Authentication Issue
+40,Password change unsuccessful,Authentication Issue
+41,Overheating detected in CPU sensor,Hardware Fault
+42,Fan speed unusually high,Hardware Fault
+43,Device not powering on,Hardware Fault
+44,Unusual clicking sound from hard disk,Hardware Fault
+45,Power supply failure detected,Hardware Fault
+46,Peripheral not recognized via USB,Hardware Fault
+47,Display flickering intermittently,Hardware Fault
+48,Battery not charging properly,Hardware Fault
+49,Overvoltage warning from motherboard,Hardware Fault
+50,Keyboard keys not responding,Hardware Fault
+51,System slow after update,Software Bug
+52,Application crashes when saving file,Software Bug
+53,Error 404 on dashboard page,Software Bug
+54,UI not responding after patch,Software Bug
+55,Program freezes while importing data,Software Bug
+56,Unexpected shutdown during operation,Software Bug
+57,Software update failed due to missing dependency,Software Bug
+58,Script throws syntax error at line 45,Software Bug
+59,Application not launching after restart,Software Bug
+60,Crash when connecting to external API,Software Bug
+61,Unable to connect to VPN,Network Issue
+62,Intermittent network disconnection,Network Issue
+63,High latency when accessing server,Network Issue
+64,Website loading very slow,Network Issue
+65,Connection timeout to remote host,Network Issue
+66,WiFi authentication failure,Network Issue
+67,Packet loss observed on interface eth0,Network Issue
+68,Server unreachable through SSH,Network Issue
+69,Network adapter not detected,Network Issue
+70,DNS resolution failed for domain,Network Issue
+71,Disk space full on /dev/sda1,Storage Issue
+72,Backup failed due to timeout,Storage Issue
+73,Unable to mount external drive,Storage Issue
+74,File read/write permission denied,Storage Issue
+75,Corrupted file system detected,Storage Issue
+76,Low disk I/O performance,Storage Issue
+77,RAID array degraded warning,Storage Issue
+78,Failed to format partition,Storage Issue
+79,Storage device not recognized,Storage Issue
+80,Disk quota exceeded for user,Storage Issue
+81,Login failed: invalid credentials,Authentication Issue
+82,Account locked after multiple attempts,Authentication Issue
+83,Two-factor authentication not working,Authentication Issue
+84,Session expired immediately after login,Authentication Issue
+85,User unable to reset password,Authentication Issue
+86,Access denied to restricted module,Authentication Issue
+87,SSO login fails for external users,Authentication Issue
+88,Invalid token detected during login,Authentication Issue
+89,LDAP authentication failed,Authentication Issue
+90,Password change unsuccessful,Authentication Issue
+91,Overheating detected in CPU sensor,Hardware Fault
+92,Fan speed unusually high,Hardware Fault
+93,Device not powering on,Hardware Fault
+94,Unusual clicking sound from hard disk,Hardware Fault
+95,Power supply failure detected,Hardware Fault
+96,Peripheral not recognized via USB,Hardware Fault
+97,Display flickering intermittently,Hardware Fault
+98,Battery not charging properly,Hardware Fault
+99,Overvoltage warning from motherboard,Hardware Fault
+100,Keyboard keys not responding,Hardware Fault
+101,VPN handshake failed during secure connection,Network Issue
+102,Ethernet adapter not obtaining IP address,Network Issue
+103,Network interface keeps flapping every few minutes,Network Issue
+104,DNS resolution takes too long for internal domains,Network Issue
+105,Unable to reach remote gateway via ping,Network Issue
+106,Frequent packet drops when streaming internal feed,Network Issue
+107,Router authentication fails for specific VLAN,Network Issue
+108,VPN auto reconnect loop every 10 seconds,Network Issue
+109,SSL handshake timeout while accessing dashboard,Network Issue
+110,Switch port disabled after high collision count,Network Issue
+111,Wireless adapter disconnects randomly after sleep,Network Issue
+112,IP conflict detected between two hosts,Network Issue
+113,Network bridge failing after Docker container start,Network Issue
+114,Unable to access internal FTP due to proxy rule,Network Issue
+115,Firewall blocking outbound connections unexpectedly,Network Issue
+116,Intermittent network outage post firmware update,Network Issue
+117,MTU mismatch causing SSH disconnects,Network Issue
+118,Ping latency spikes during off-peak hours,Network Issue
+119,Proxy authentication loop on browser startup,Network Issue
+120,Network policy denies VoIP connection setup,Network Issue
+121,SSD not detected on system boot,Hardware Fault
+122,Cooling fan makes grinding noise intermittently,Hardware Fault
+123,RAM slot 2 not registering any module,Hardware Fault
+124,External hard drive disconnects randomly,Hardware Fault
+125,CPU temperature spikes under minimal load,Hardware Fault
+126,Keyboard backlight not functioning,Hardware Fault
+127,Laptop screen flickers when moved slightly,Hardware Fault
+128,USB ports unresponsive after BIOS update,Hardware Fault
+129,Graphics card fan speed stuck at 100%,Hardware Fault
+130,Audio jack producing static output,Hardware Fault
+131,Monitor shows ghost image after shutdown,Hardware Fault
+132,Power button requires multiple presses to start,Hardware Fault
+133,Touchpad not recognized after sleep mode,Hardware Fault
+134,DVD drive keeps ejecting repeatedly,Hardware Fault
+135,CMOS battery error on every boot,Hardware Fault
+136,GPU overheating despite clean fans,Hardware Fault
+137,Printer tray sensor not detecting paper,Hardware Fault
+138,Motherboard beeps three times and halts,Hardware Fault
+139,Cooling pad USB cable sparks occasionally,Hardware Fault
+140,Bluetooth adapter missing from device manager,Hardware Fault
+141,Application crashes when exporting PDF,Software Bug
+142,Background sync keeps restarting without progress,Software Bug
+143,Login form freezes after credential input,Software Bug
+144,Settings menu resets to default on every launch,Software Bug
+145,File upload stuck at 99% indefinitely,Software Bug
+146,Update installer rollback triggered automatically,Software Bug
+147,Task scheduler runs duplicate instances,Software Bug
+148,Cache folder keeps regenerating corrupted files,Software Bug
+149,Version mismatch error despite correct installation,Software Bug
+150,Email client fails to load new messages,Software Bug
+151,App auto-closes after splash screen,Software Bug
+152,Notification panel missing icons post update,Software Bug
+153,Custom theme reverts after restart,Software Bug
+154,Excel macro throws undefined variable error,Software Bug
+155,Word document autosave not functioning,Software Bug
+156,Browser extension disables automatically,Software Bug
+157,Report export creates empty CSV,Software Bug
+158,Password reset link redirects to error page,Software Bug
+159,Command prompt script returns segmentation fault,Software Bug
+160,File explorer search bar becomes unresponsive,Software Bug
+161,Unauthorized login detected from new location,Security Breach
+162,User credentials found in phishing attempt,Security Breach
+163,Firewall logs show multiple failed SSH attempts,Security Breach
+164,Suspicious process creating hidden temp files,Security Breach
+165,Malware quarantine keeps reappearing,Security Breach
+166,Admin privileges escalated without approval,Security Breach
+167,Unknown public key added to authorized list,Security Breach
+168,Email spoofing attack targeting finance team,Security Breach
+169,TLS certificate replaced unexpectedly,Security Breach
+170,Ransomware note found on shared directory,Security Breach
+171,Audit log tampered with missing entries,Security Breach
+172,Security patch rolled back automatically,Security Breach
+173,Antivirus disabled without admin rights,Security Breach
+174,Brute force attempts from internal subnet,Security Breach
+175,USB drive executing autorun scripts,Security Breach
+176,DNS hijacking redirects to fake portal,Security Breach
+177,Suspicious traffic on port 4444,Security Breach
+178,Root password changed without notification,Security Breach
+179,Login tokens reused after expiration,Security Breach
+180,VPN connection initiated from unrecognized IP,Security Breach
+181,Cron job executes twice per interval,System Configuration Error
+182,Environment variable missing in production,System Configuration Error
+183,Bootloader timeout misconfigured,System Configuration Error
+184,System clock drifting despite NTP sync,System Configuration Error
+185,SSH key permissions incorrectly set,System Configuration Error
+186,Path variable corrupted during update,System Configuration Error
+187,User profile not loading correct shell,System Configuration Error
+188,Firewall rule order blocks essential ports,System Configuration Error
+189,Config file missing dependency entries,System Configuration Error
+190,Web server pointing to wrong document root,System Configuration Error
+191,Kernel module fails to load at startup,System Configuration Error
+192,Memory limit exceeded due to wrong cgroup config,System Configuration Error
+193,SELinux blocking service execution silently,System Configuration Error
+194,Hostname not resolving locally after rename,System Configuration Error
+195,Incorrect timezone applied on restart,System Configuration Error
+196,Systemd unit file misconfigured dependency,System Configuration Error
+197,Log rotation misfires causing storage overflow,System Configuration Error
+198,PAM configuration denies all sudo access,System Configuration Error
+199,Temporary directory mounted with wrong permissions,System Configuration Error
+200,File ownership mismatch prevents daemon restart,System Configuration Error
+201,VPN client reports certificate chain incomplete,Network Issue
+202,Core switch losing neighbor adjacency intermittently,Network Issue
+203,IPv6 routing table not updating after restart,Network Issue
+204,Multicast stream not reaching subscriber hosts,Network Issue
+205,Telnet session drops after authentication,Network Issue
+206,Wireless SSID invisible on certain access points,Network Issue
+207,Route flapping detected between datacenter nodes,Network Issue
+208,ARP table poisoning observed on VLAN 20,Network Issue
+209,SSL offload failing on load balancer,Network Issue
+210,Mobile network gateway blocking push notifications,Network Issue
+211,Edge device not authenticating with RADIUS,Network Issue
+212,Traffic shaping misapplied to critical ports,Network Issue
+213,LAN throughput below SLA during backups,Network Issue
+214,VPN split-tunnel not applying correct routes,Network Issue
+215,Network ACL denying traffic to monitoring server,Network Issue
+216,ISP peering issue causing packet reordering,Network Issue
+217,DHCP lease renewal fails for certain hosts,Network Issue
+218,VoIP calls experiencing one-way audio,Network Issue
+219,SNMP traps not being delivered to collector,Network Issue
+220,Ongoing BGP session resets after peer update,Network Issue
+221,Server chassis reporting degraded fan status,Hardware Fault
+222,No POST display on external monitor,Hardware Fault
+223,SMART shows increasing reallocated sectors,Hardware Fault
+224,NVMe drive failing SMART health check,Hardware Fault
+225,Rear I/O panel LEDs not illuminating,Hardware Fault
+226,System reports ACPI errors in dmesg,Hardware Fault
+227,Drive bay latch broken preventing drive insertion,Hardware Fault
+228,Keyboard connection intermittent on docking station,Hardware Fault
+229,Camera module not detected by OS,Hardware Fault
+230,Thermal throttling occurs under light load,Hardware Fault
+231,Power surge damaged PSU connectors,Hardware Fault
+232,Optical drive unable to read discs,Hardware Fault
+233,Microphone array returns zero input,Hardware Fault
+234,Tablet digitizer unresponsive to touch,Hardware Fault
+235,Headset mic not switching when plugged,Hardware Fault
+236,Firmware corruption on RAID controller,Hardware Fault
+237,Chassis intrusion sensor stuck open,Hardware Fault
+238,SATA cable loose causing read errors,Hardware Fault
+239,Accelerometer sensor giving wrong orientation,Hardware Fault
+240,Embedded controller firmware needs update,Hardware Fault
+241,Crash dialog shows null pointer exception,Software Bug
+242,File handle leak causing process to hang,Software Bug
+243,Dependency loader cannot find module X,Software Bug
+244,Search index corruption after reindex,Software Bug
+245,Batch job fails silently with exit code 1,Software Bug
+246,Concurrent update race condition in DB,Software Bug
+247,Locale parsing error for datestrings,Software Bug
+248,Multi-threaded deadlock when saving records,Software Bug
+249,Installer fails when optional feature enabled,Software Bug
+250,Feature flag not toggling behavior correctly,Software Bug
+251,Mobile app crashes on Android 12 devices,Software Bug
+252,Incorrect currency formatting in reports,Software Bug
+253,Webhook payload missing required fields,Software Bug
+254,Service healthcheck returns 500 intermittently,Software Bug
+255,Legacy API returns deprecated field names,Software Bug
+256,Permission check bypassed under certain routes,Software Bug
+257,Data export truncates rows unexpectedly,Software Bug
+258,Notification retries exceed configured limit,Software Bug
+259,Config reload causes worker to restart,Software Bug
+260,Report generation times out on large datasets,Software Bug
+261,Multiple failed login attempts from same IP,Security Breach
+262,Compromised credentials used to access S3 bucket,Security Breach
+263,New admin user created without audit entry,Security Breach
+264,Unexpected service spawning reverse shell,Security Breach
+265,Stolen SSH keys uploaded to public paste,Security Breach
+266,Encrypted archive found with ransom note,Security Breach
+267,Privilege escalation exploit detected in logs,Security Breach
+268,Unauthorized data exfiltration to external host,Security Breach
+269,Malicious cron job scheduled on web server,Security Breach
+270,Firmware image replaced with backdoor build,Security Breach
+271,Multiple systems show same IoC fingerprint,Security Breach
+272,Domain admin account used outside business hours,Security Breach
+273,Compromised container image pulled from registry,Security Breach
+274,Credential stuffing detected against login endpoint,Security Breach
+275,Unusual outbound traffic to low-reputation IPs,Security Breach
+276,Two-factor codes being bypassed via SMS forward,Security Breach
+277,Exploit attempted via outdated library dependency,Security Breach
+278,Encrypted channel terminated unexpectedly mid-session,Security Breach
+279,Unauthorized API keys discovered in repo,Security Breach
+280,Attacker pivoting from DMZ to internal network,Security Breach
+281,Init script referencing missing configuration file,System Configuration Error
+282,Docker compose using wrong network name,System Configuration Error
+283,Kernel command line missing required parameter,System Configuration Error
+284,Systemd service file lacks Restart=on-failure,System Configuration Error
+285,SSH authorized_keys file contains incorrect entries,System Configuration Error
+286,Hosts file contains stale IP mappings,System Configuration Error
+287,Load balancer health check pointed to wrong path,System Configuration Error
+288,NFS export options preventing writes,System Configuration Error
+289,User limits (ulimit) too low for application,System Configuration Error
+290,Swap partition not configured causing OOM kills,System Configuration Error
+291,SELinux context wrong for webroot files,System Configuration Error
+292,Fail2ban jail configuration blocking legitimate users,System Configuration Error
+293,Incorrect iptables NAT rule order,System Configuration Error
+294,Backup cronjob running under wrong user,System Configuration Error
+295,Certificate chain not loaded in keystore,System Configuration Error
+296,Syslog forwarding misconfigured destination port,System Configuration Error
+297,Exim main.cf misconfigured relayhost,System Configuration Error
+298,LDAP referral settings causing bind failures,System Configuration Error
+299,Temporary file cleanup script removes active files,System Configuration Error
+300,Initramfs missing necessary drivers for boot,System Configuration Error
+

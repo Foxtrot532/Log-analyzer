@@ -1,0 +1,8 @@
+2025-10-21 10:32:44 ERROR: Failed to connect to database
+2025-10-21 10:33:10 WARNING: Disk space low on /dev/sda1
+2025-10-21 10:34:05 ERROR: Timeout while connecting to server
+2025-10-21 10:34:22 INFO: Retrying connection
+2025-10-21 10:34:45 CRITICAL: Application crashed unexpectedly
+2025-10-21 10:35:11 ERROR: Network adapter not detected
+2025-10-21 10:36:02 INFO: System shutting down gracefully
+
