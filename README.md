@@ -1,6 +1,6 @@
 # Log Analyzer & Ticket Classifier (Hybrid AI Tool)
 
-**Author:** Lakshmi Ajithesh  
+**Author:** L Ajithesh  
 **Tech Stack:** Python, Regex, scikit-learn, pandas, joblib  
 
 ---
